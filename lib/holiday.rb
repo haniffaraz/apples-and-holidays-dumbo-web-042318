@@ -79,10 +79,10 @@ def all_holidays_with_bbq(holiday_hash)
         data.each do |holiday, items|
           binding.pry
           if condition
-            
+
           end
           
         end
-      
+
       end
 end
